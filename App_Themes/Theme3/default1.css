@@ -1,0 +1,22 @@
+﻿body {
+
+    
+             font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
+               height: auto;
+              max-width:100%;
+                 
+               background-repeat:no-repeat;
+}
+
+   .featured-items{
+                background-color:lightcoral;
+    }
+    .bg-primary{
+        background-color:lightcoral;
+        margin-top:350px;
+
+    }
+  h2{
+      color:black;
+      text-shadow:none;
+  }
